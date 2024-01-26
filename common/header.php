@@ -28,7 +28,7 @@
                 <li><a href="about.php">About</a></li>
                 <li><a href="contact.php">Contact</a></li>
                 <!-- <li id="lg-bag"><a href="cart.php"><i class="fa fa-shopping-bag"></i></a></li> -->
-                <li><a href="#" class='myBtn open-btn'><i class="fa fa-user-o"></i></a></li>
+                <li><a href="#" class='myBtn open-btn'><i class="fa fa-user"></i></a></li>
                 <a href="#" id='close'><i class="fa fa-times"></i></a>
 
             </ul>

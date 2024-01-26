@@ -355,7 +355,17 @@ button.white {
 }
 
 #sm-banner .banner-box2 {
-    background-image: url("img/banner/b10.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: right;
+    align-items: flex-end;
+    background-image: url("img/presnal/3.jpg");
+    min-width: 580px;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
 }
 
 #sm-banner h4 {
@@ -394,7 +404,7 @@ button.white {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("rishu.jpg");
+    background-image: url("img/presnal/rishu.jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -404,12 +414,12 @@ button.white {
 }
 
 #banner3 .banner-box3 {
-    background-image: url("taniya.jpg");
+    background-image: url("img/presnal/taniya.jpg");
 
 }
 
 #banner3 .banner-box4 {
-    background-image: url("deepak.jpg");
+    background-image: url("img/presnal/deepak.jpg");
 
 }
 
