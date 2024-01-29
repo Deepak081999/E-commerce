@@ -23,7 +23,7 @@
         <div>
             <ul id="navbar">
                 <li id="lg-bag"><a href="cart.php"><i class="fa fa-shopping-bag"></i></a></li>
-                <li><a href="logout.php" class='open-btn'><i class="fa fa-sign-out" aria-hidden="true"></i></a></li>
+                <li><a href="ut.php" class='open-btn'><i class="fa fa-sign-out" aria-hidden="true"></i></a></li>
                 <a href="#" id='close'><i class="fa fa-times"></i></a>
 
             </ul>

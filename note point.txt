@@ -1,6 +1,0 @@
-
-add this bootstrap :
-        1.add this CDN 
-        2. bootstrap 4 download
-
-add this Font Awesome used for "CDN" . this CDN use for online working for web page this   . 
