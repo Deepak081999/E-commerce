@@ -6,9 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>E-commerce</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="login.css">
-    <link rel="stylesheet" href="pop.css">
+
+    <link rel="stylesheet" href="public/css/style.css">
+    <link rel="stylesheet" href="public/css/login.css">
+    <link rel="stylesheet" href="public/css/pop.css">
     <!-- <link rel="stylesheet" href="modal.css"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- include jQuery library -->
@@ -23,7 +24,7 @@
         <div>
             <ul id="navbar">
                 <li id="lg-bag"><a href="cart.php"><i class="fa fa-shopping-bag"></i></a></li>
-                <li><a href="ut.php" class='open-btn'><i class="fa fa-sign-out" aria-hidden="true"></i></a></li>
+                <li><a href="logout.php" class='open-btn'><i class="fa fa-sign-out" aria-hidden="true"></i></a></li>
                 <a href="#" id='close'><i class="fa fa-times"></i></a>
 
             </ul>

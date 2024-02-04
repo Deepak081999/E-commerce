@@ -10,7 +10,9 @@
     <link rel="stylesheet" href="public/css/login.css">
     <link rel="stylesheet" href="public/css/pop.css">
     <link rel="stylesheet" href="public/css/modal.css">
-    <link rel="stylesheet" href="public/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="public/css/font-awesome.min.css"> -->
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- include jQuery library -->
     <script src="js/jquery-3.6.0.min.js"></script>
     <style>

@@ -440,7 +440,7 @@ button.white {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    background-image: url("img/banner/b14.png");
+    background-image: url("../../img/banner/b14.png");
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
@@ -548,7 +548,7 @@ footer .copyright {
 
 /* shop page css */
 #page-headar {
-    background-image: url('img/banner/b1.jpg');
+    background-image: url('../../img/banner/b1.jpg');
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -646,7 +646,7 @@ footer .copyright {
 
 /* blog page */
 #page-headar.blog-headar {
-    background-image: url('img/banner/b19.jpg');
+    background-image: url('../../img/banner/b19.jpg');
 }
 
 #blog {
@@ -719,7 +719,7 @@ footer .copyright {
 /* About page  */
 
 #page-headar.about-headar {
-    background-image: url('img/about/banner.png');
+    background-image: url('../../img/about/banner.png');
 }
 
 #about-head {
