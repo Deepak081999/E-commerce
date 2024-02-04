@@ -20,7 +20,7 @@
 
 <body>
     <section id="header">
-        <div class="text-rainbow-animation"> SHOP-GENIE</div>
+        <div class="text-rainbow-animation">SHOP-GENIE</div>
         <div>
             <ul id="navbar">
                 <li id="lg-bag"><a href="cart.php"><i class="fa fa-shopping-bag"></i></a></li>
