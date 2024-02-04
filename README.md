@@ -19,7 +19,7 @@ This project are used to HTML, CSS, PHP (Basies) and Javascript.
 
 
 ### Index
-![Index](http://localhost/E-commerce/blog.php)
+![Index](https://github.dev/Deepak081999/E-commerce/blob/main/blog.php)
 
 ### Home
 ![Home](screenshots/Home.png)
