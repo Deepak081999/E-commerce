@@ -1,4 +1,4 @@
-<?php include("common/header.php");?>
+<?php include "common/header.php";?>
 <section id="page-headar" class="blog-headar">
     <h1>#readmore</h1>
     <p>Read all case studies about our product!</p>
@@ -20,7 +20,7 @@
     </div>
     <div class="blog-box">
         <div class="blog-img">
-            <img src="taniya.jpg" alt="" srcset="">
+            <img src="img/presnal/taniya.jpg" alt="" srcset="">
         </div>
 
         <div class="blog-details">
@@ -46,7 +46,7 @@
     </div>
     <div class="blog-box">
         <div class="blog-img">
-            <img src="manish.jpg" alt="" srcset="">
+            <img src="img/presnal/manish.jpg" alt="" srcset="">
         </div>
 
         <div class="blog-details">
@@ -59,7 +59,7 @@
     </div>
     <div class="blog-box">
         <div class="blog-img">
-            <img src="deepak.jpg" alt="" srcset="">
+            <img src="img/presnal/deepak.jpg" alt="" srcset="">
         </div>
 
         <div class="blog-details">
@@ -94,4 +94,4 @@
 </section>
 
 
-<?php include('common/footer.php');?>
+<?php include 'common/footer.php';?>

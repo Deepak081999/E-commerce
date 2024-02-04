@@ -404,7 +404,7 @@ button.white {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("../../img/presnal/rishu.jpg");
+    background-image: url("../../img/presnal/manish.jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -414,7 +414,7 @@ button.white {
 }
 
 #banner3 .banner-box3 {
-    background-image: url("../../img/presnal/taniya.jpg");
+    background-image: url("../../img/presnal/yaari.jpg");
 
 }
 

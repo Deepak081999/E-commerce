@@ -2,10 +2,6 @@
 This project are used to HTML, CSS, PHP (Basies) and Javascript. 
 
 
-# <img align="left" alt="Twitter" width="30px" src="https://github.com/aminyasser/aminyasser/blob/main/icons/twitter.png" draggable="false" /> Twitter Clone ([Click to try 🚀](https://sn-amin.000webhostapp.com/))
-
-Bulit PHP **_Twitter Clone_** IN OOP style and using MYSQL Database. AJAX and Jquery for requests without reloading like Follow/unfollow, like, Search users, Show popups like comment , User lists, etc.
-
 ## Running locally
  
  - Create New Database then import twitter.sql file on it.
@@ -23,7 +19,7 @@ Bulit PHP **_Twitter Clone_** IN OOP style and using MYSQL Database. AJAX and Jq
 
 
 ### Index
-![Index](screenshots/Index.png)
+![Index](http://localhost/E-commerce/blog.php)
 
 ### Home
 ![Home](screenshots/Home.png)
