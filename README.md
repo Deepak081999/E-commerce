@@ -34,10 +34,10 @@ This project are used to HTML, CSS, PHP (Basies) and Javascript.
 ![Register](screenshots/register.jpg)
 
 ### Dhashbord
-![Dhashbord](screenshots/dhashbord.jpg)
+![Dhashbord](screenshots/user_dhashbord.jpg)
 
 ### Product Details
-![Product Details](screenshots/product details.jpg)
+![Product Details](screenshots/product_details.jpg)
 
 ### Payment and cart
 ![payment](screenshots/payment%20cart.jpg) 
