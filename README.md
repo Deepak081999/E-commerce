@@ -17,33 +17,30 @@ This project are used to HTML, CSS, PHP (Basies) and Javascript.
 
 ## 📷 UI
 
-
-### Index
-![Index](https://github.dev/Deepak081999/E-commerce/blob/main/blog.php)
-
 ### Home
-![Home](screenshots/Home.png)
+![Home](screenshots/Home.jpg)
 
-### Tweet and Comments
-![Post](screenshots/Inner-Post.png)
+### Products 📷
+![Products](screenshots/prodcut.jpg)
 
-### Profile
-![Profile](screenshots/Profile.png)
+### Arrivals 📷
+![Arrivals](screenshots/arrivals.jpg)
 
-### Notifications
-![Movie](screenshots/Notifications.png)
+### model 📷
+![Model](screenshots/model.jpg)
 
-### Edit Account
-![Edit](screenshots/Edit.png)
+### Login and Register
+![Login](screenshots/login.jpg)
+![Register](screenshots/register.jpg)
 
-### Preview Image before Tweet
-![Post](screenshots/Post.png)
+### Dhashbord
+![Dhashbord](screenshots/dhashbord.jpg)
 
-### Users List (For following/likedby etc)
-![Users](screenshots/Users.png)
+### Product Details
+![Product Details](screenshots/product details.jpg)
 
-### Setting
-![Setting](screenshots/Setting.png) 
+### Payment and cart
+![payment](screenshots/payment%20cart.jpg) 
 
 
 
