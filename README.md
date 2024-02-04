@@ -40,7 +40,7 @@ This project are used to HTML, CSS, PHP (Basies) and Javascript.
 ![Product Details](screenshots/product_details.jpg)
 
 ### Payment and cart
-![payment](screenshots/payment%20cart.jpg) 
+![payment](screenshots/payment_cart.jpg) 
 
 
 
