@@ -4,7 +4,7 @@ $sname = "localhost";
 $unmae = "root";
 $password = "";
 
-$db_name = "miniproject";
+$db_name = "e_commercee";
 
 $conn = mysqli_connect($sname, $unmae, $password, $db_name);
 
